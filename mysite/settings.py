@@ -25,7 +25,7 @@ SECRET_KEY = 'qh&=sz_osx0o1stn4bib3)@(1(xgt$vsm!hiu1h$%ed#t-ed@e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'cokos.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cokoson.pythonanywhere.com']
 
 
 # Application definition
